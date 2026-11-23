@@ -1,11 +1,19 @@
-## Credits
+## Assets & Credits
 
-Action Platformer Character Animation Template
+### Character Assets
 
-* **Created by:** Ozzbit Games
+The game uses character sprites from Little Monsters — Character Pack 01 by Ruby's Studio.
 
-* **Source:** https://ozzbit-games.itch.io/action-platformer-character-template
+The asset pack includes:
 
-* **License:** Free version — personal, non-commercial use only.
+10 animated 2D characters.
 
-* **Modifications:** Allowed.
+8 animation states per character (Idle, Happy, Cry, Walk, Attack, Jump, Hit, Death).
+
+Matching projectile sprites.
+
+Unity prefabs, Animator Controllers and Animation Clips.
+
+The character sprites and animations are used as third-party assets and remain the property of their original creator.
+
+Credits: Ruby's Studio — Little Monsters Character Pack 01.
